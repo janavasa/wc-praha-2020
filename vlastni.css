@@ -1,4 +1,7 @@
 /*** HEADER ***/
+.custom-header {
+    background: #1598a8 url(https://2020.prague.wordcamp.org/files/2016/11/prague.jpg) repeat-x 50% 100% !important;
+}
 .site-title a:before {
     background-image: url(https://2020.prague.wordcamp.org/files/2019/05/wp_logo-e1559134843691.png) !important;
 }
