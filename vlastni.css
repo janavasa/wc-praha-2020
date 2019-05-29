@@ -1,5 +1,3 @@
 .site-title a:before {
-    width: 180px;
-    height: 180px;
     background-image: url(https://2020.prague.wordcamp.org/files/2019/05/wp_logo-e1559134843691.png) !important;
 }
