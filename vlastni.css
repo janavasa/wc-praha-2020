@@ -2,7 +2,7 @@
 .site-title a:before {
     background-image: url(https://2020.prague.wordcamp.org/files/2019/05/wp_logo-e1559134843691.png) !important;
 }
-.menu {
+.page-navigation-container ul {
     margin: 0 auto;
 }
 
