@@ -1,3 +1,8 @@
+/*** OBECNÉ ***/
+h1, h2, h3, h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
 /*** HEADER ***/
 .custom-header {
     background: #1598a8 url(https://2020.prague.wordcamp.org/files/2016/11/prague.jpg) !important;
@@ -9,4 +14,5 @@
 .page-navigation-container ul {
     margin: 0 auto;
 }
+
 
