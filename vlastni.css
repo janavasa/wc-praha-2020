@@ -10,7 +10,14 @@ body, h1, h2, h3, h4 {
 }
 .site-title a:before {
     background-image: url(https://2020.prague.wordcamp.org/files/2019/05/wp_logo-e1559134843691.png) !important;
+    width: 230px !important;
+    height: 230px !important;
 }
+@media (min-width: 48em) {
+    .home .site-header .site-branding {
+        padding: 11.5rem 3rem !important;
+    }
+}   
 .site-title {
     font-size: 2em !important;
     font-family: 'Roboto', sans-serif !important;
