@@ -5,6 +5,9 @@ body, h1, h2, h3, h4 {
 .page h1.entry-title, .postid-1114 h1.entry-title, .postid-1341 h1.entry-title, .postid-3305 h1.entry-title, .postid-3478 h1.entry-title {
     color: #cb032b!important;
 }
+.page header.entry-header, .postid-1114 header.entry-header, .postid-1341 header.entry-header, .postid-3305 header.entry-header, .postid-3478 header.entry-header {
+    background: url(https://2020.prague.wordcamp.org/files/2019/05/background-line-praha.png)!imprtant;
+}
 .entry-content a {
     color: #cb032b!important;
     box-shadow: inset 0 -1px 0 0 rgba(203,3,43,.5)!important;
