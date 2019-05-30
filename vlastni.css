@@ -5,11 +5,11 @@ body, h1, h2, h3, h4 {
 .page h1.entry-title, .postid-1114 h1.entry-title, .postid-1341 h1.entry-title, .postid-3305 h1.entry-title, .postid-3478 h1.entry-title {
     color: #cb032b!important;
 }
-.page header.entry-header, .postid-1114 header.entry-header, .postid-1341 header.entry-header, .postid-3305 header.entry-header, .postid-3478 header.entry-header {
+/*.page header.entry-header, .postid-1114 header.entry-header, .postid-1341 header.entry-header, .postid-3305 header.entry-header, .postid-3478 header.entry-header {
     background: url(https://2020.prague.wordcamp.org/files/2019/05/background-line-praha.png)!important;
     background-repeat: repeat-x!important;
     background-position: 0!important;
-}
+}*/
 .entry-content a {
     color: #cb032b!important;
     box-shadow: inset 0 -1px 0 0 rgba(203,3,43,.5)!important;
@@ -24,11 +24,11 @@ body, h1, h2, h3, h4 {
     background: #1598a8 url(https://2020.prague.wordcamp.org/files/2016/11/prague.jpg) !important;
     background-size: cover!important;
 }
-/*.site-title a:before {
+.site-title a:before {
     background-image: url(https://2020.prague.wordcamp.org/files/2019/05/wp_logo-e1559134843691.png) !important;
     width: 230px !important;
     height: 230px !important;
-}*/
+}
 @media (min-width: 48em) {
     .site-header .site-branding {
         padding: 7rem 2rem !important;
