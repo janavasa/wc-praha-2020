@@ -7,6 +7,8 @@ body, h1, h2, h3, h4 {
 }
 .page header.entry-header, .postid-1114 header.entry-header, .postid-1341 header.entry-header, .postid-3305 header.entry-header, .postid-3478 header.entry-header {
     background: url(https://2020.prague.wordcamp.org/files/2019/05/background-line-praha.png)!important;
+    background-repeat: repeat-x;
+    background-position: 0;
 }
 .entry-content a {
     color: #cb032b!important;
