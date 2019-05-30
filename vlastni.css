@@ -57,7 +57,7 @@ a {
     font-weight: 700 !important;
 }
 .site-title a {
-    color: #fff;
+    color: #fff!important;
 }
 .site-title a:active, .site-title a:focus, .site-title a:hover {
     color: #fff!important;
@@ -67,7 +67,7 @@ a {
 }
 #site-navigation a {
     font-weight: bold;
-    color: #fff;
+    color: #fff!important;
 }
 .current-menu-item>a, .menu-item a.focus, .menu-item a:active, .menu-item a:focus, .menu-item a:hover {
     background-color: #cb032b!important;
