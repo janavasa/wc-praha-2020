@@ -64,6 +64,7 @@ a {
 }
 .menu-item a {
     font-weight: bold;
+    color: #fff;
 }
 .current-menu-item>a, .menu-item a.focus, .menu-item a:active, .menu-item a:focus, .menu-item a:hover {
     background-color: #cb032b!important;
