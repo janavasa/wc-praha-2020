@@ -24,11 +24,11 @@ body, h1, h2, h3, h4 {
     background: #1598a8 url(https://2020.prague.wordcamp.org/files/2016/11/prague.jpg) !important;
     background-size: cover!important;
 }
-.site-title a:before {
+/*.site-title a:before {
     background-image: url(https://2020.prague.wordcamp.org/files/2019/05/wp_logo-e1559134843691.png) !important;
     width: 230px !important;
     height: 230px !important;
-}
+}*/
 @media (min-width: 48em) {
     .site-header .site-branding {
         padding: 7rem 2rem !important;
