@@ -1,6 +1,11 @@
-/*** OBECNÉ ***/
+/*** GENERAL ***/
 body, h1, h2, h3, h4 {
     font-family: 'Roboto', sans-serif !important;
+}
+/*** colors ***/
+/*red = #cb032b*/
+.page h1.entry-title, .postid-1114 h1.entry-title, .postid-1341 h1.entry-title, .postid-3305 h1.entry-title, .postid-3478 h1.entry-title {
+    color: #cb032b;
 }
 
 /*** HEADER ***/
