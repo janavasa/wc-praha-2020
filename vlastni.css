@@ -8,7 +8,7 @@ body, h1, h2, h3, h4 {
 .page header.entry-header, .postid-1114 header.entry-header, .postid-1341 header.entry-header, .postid-3305 header.entry-header, .postid-3478 header.entry-header {
     background: linear-gradient(180deg, 
         rgba(0,0,0,0) calc(50% - 1px), 
-        rgba(192,192,192,1) calc(50%), 
+        rgba(203,3,43,.5) calc(50%), 
         rgba(0,0,0,0) calc(50% + 1px)
     ) !important;
 }
