@@ -56,13 +56,16 @@ a {
     font-family: 'Roboto', sans-serif !important;
     font-weight: 700 !important;
 }
+.site-title a {
+    color: #fff;
+}
 .site-title a:active, .site-title a:focus, .site-title a:hover {
     color: #fff!important;
 }
 .page-navigation-container ul {
     margin: 0 auto;
 }
-.menu-item a {
+#site-navigation a {
     font-weight: bold;
     color: #fff;
 }
