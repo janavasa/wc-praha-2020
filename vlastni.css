@@ -73,7 +73,9 @@ a {
     background-color: #cb032b!important;
 }
 
-
+.wcorg-organizer p + p {
+    margin-top: 0.5em;
+}
 
 
 
